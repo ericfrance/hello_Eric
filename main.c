@@ -32,7 +32,7 @@ void fun2()
 
 }
 
-void fun3()
+void fun_local()
 {
 
 }
