@@ -11,3 +11,11 @@ void main(void){
   i = 0;
 
 }
+
+
+
+/*    Eric 19/10/2015     */
+void fun(void)
+{
+   
+}
