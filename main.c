@@ -19,3 +19,10 @@ void fun(void)
 {
    
 }
+
+/**    Eric 19/10/2015*/
+
+void fun1(void)
+{
+
+}
