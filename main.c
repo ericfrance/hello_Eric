@@ -32,7 +32,16 @@ void fun2()
 
 }
 
+<<<<<<< HEAD
 void fun_local()
 {
 
 }
+=======
+/*   function created on Github by Eric*/
+void fun3()
+{
+  
+  
+}
+>>>>>>> 2bac0d1428a2971516bc9bc8ac6491063a6f48a7
