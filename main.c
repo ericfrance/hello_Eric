@@ -31,3 +31,8 @@ void fun2()
 {
 
 }
+
+void fun3()
+{
+
+}
